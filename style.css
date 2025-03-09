@@ -1,8 +1,8 @@
 :root{
   --primary: #fff;
-  --bg-color: rgb(224, 224, 184);
+  --bg-color: rgb (255, 230, 245);
   --bg-envelope-color: #f5edd1;
-  --envelope-tab: #ecdeb8;
+  --envelope-tab: #f5edd1;
   --envelope-cover: #facae8;
   --shadow-color: rgba(0, 0, 0, 0.2);
   --txt-color: #444;
