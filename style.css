@@ -3,10 +3,10 @@
   --bg-color: rgb(224, 224, 184);
   --bg-envelope-color: #f5edd1;
   --envelope-tab: #ecdeb8;
-  --envelope-cover: #e6cfa7;
+  --envelope-cover: #facae8;
   --shadow-color: rgba(0, 0, 0, 0.2);
   --txt-color: #444;
-  --heart-color: rgb (247, 190, 225);
+  --heart-color: rgb (235, 160, 205);
 }
 body{
   margin: 0;
